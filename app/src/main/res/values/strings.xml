@@ -3,4 +3,5 @@
     <string name="subject_Name">Subject</string>
     <string name="email_body">Enter Message: </string>
     <string name="address">enter email address</string>
+    <string name="Emailto">To:</string>
 </resources>
